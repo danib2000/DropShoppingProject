@@ -32,5 +32,15 @@ namespace DatabaseTest.Controllers
 
             return View();
         }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult SignUp(Models.UsersModel model)
+        {
+            if(ModelState.IsValid)
+            {
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
     }
 }
