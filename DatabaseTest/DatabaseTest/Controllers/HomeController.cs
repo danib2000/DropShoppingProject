@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using DataLibrary;
+using static DataLibrary.BusinessLogic.UserProcessor;
 
 namespace DatabaseTest.Controllers
 {
@@ -38,6 +40,7 @@ namespace DatabaseTest.Controllers
         {
             if(ModelState.IsValid)
             {
+                int rc =CreateUser(model.UserName, model.EmailAddress, 0);
                 return RedirectToAction("Index");
             }
             return View();

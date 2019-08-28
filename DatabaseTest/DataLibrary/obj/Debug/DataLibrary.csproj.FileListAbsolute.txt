@@ -1,0 +1,9 @@
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\DataLibrary\obj\Debug\DataLibrary.pdb
