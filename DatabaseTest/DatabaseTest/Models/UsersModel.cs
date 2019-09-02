@@ -34,5 +34,7 @@ namespace DatabaseTest.Models
         [DataType(DataType.Password)]
         [Compare("Password", ErrorMessage = "Password and Confirm Password must match!")]
         public String ConfirmPassword { get; set; }
+
+
     }
 }

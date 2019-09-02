@@ -1,0 +1,10 @@
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\bin\Debug\MVCDataBase.dacpac
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\bin\Debug\MVCDataBase.dll
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\bin\Debug\MVCDataBase.pdb
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\MVCDataBase.sqlprojAssemblyReference.cache
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\Model.xml
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\refactor.xml
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\postdeploy.sql
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\predeploy.sql
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\MVCDataBase.dll
+C:\Users\dani1\Desktop\College\DropShoppingProject\DatabaseTest\MVCDataBase\obj\Debug\MVCDataBase.pdb
